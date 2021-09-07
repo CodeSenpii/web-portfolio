@@ -4,26 +4,28 @@ body{
 
 img{
   height: 300px;
+  width: 300px;
   background:white;
-  border-radius: 50%;
+  border-radius: 30% 30%;
   margin: 30px;
 
-  background-size: cover;
+  /* background-size: cover; */
 
 }
 
 .drum{
-  background-image: url("drum.png");
+  /* background-image: url("drum.png"); */
 }
 .simon{
-  background-image: url("simon.png");
+  /* background-image: url("simon.png"); */
+  background-color: lightgrey;
 }
 .dice{
-  background-image: url("dice.jpg");
+  /* background-image: url("dice.jpg"); */
 }
 .tinder4dogs{
-  background-image: url("dogs1.jpg");
-  background-position: center;
+  /* background-image: url("dogs1.jpg"); */
+  /* background-position: center; */
 }
 
 h1{
