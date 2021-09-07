@@ -1,0 +1,28 @@
+
+img{
+  height: 300px;
+  background:white;
+  border-radius: 50%;
+  margin: 30px;
+
+  background-size: cover;
+
+}
+
+.drum{
+  background-image: url("drum.png");
+}
+.simon{
+  background-image: url("simon.png");
+}
+.dice{
+  background-image: url("dice.jpg");
+}
+.tinder4dogs{
+  background-image: url("dogs1.jpg");
+  background-position: center;
+}
+
+h1{
+  font-family: cursive;
+}
