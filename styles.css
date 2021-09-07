@@ -1,11 +1,12 @@
 body{
   text-align: center;
+
 }
 
 img{
   height: 300px;
   width: 300px;
-  background:white;
+  /* background:white; */
   border-radius: 30% 30%;
   margin: 30px;
 
