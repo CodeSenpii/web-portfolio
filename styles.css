@@ -9,6 +9,7 @@ img{
   /* background:white; */
   border-radius: 30% 30%;
   margin: 30px;
+  border: 2px solid;
 
   /* background-size: cover; */
 }
